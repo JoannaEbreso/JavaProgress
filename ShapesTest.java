@@ -8,7 +8,7 @@ public class ShapesTest{
 		double squareArea=square.calArea();
 		double circArea=circle.calArea();
 		
-		System.out.printf("The area of the rectangle is %f: ", recArea);
+		System.out.printf("The area of the rectangle is: %.2f", recArea);	
 
 	}
 }

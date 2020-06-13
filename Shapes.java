@@ -46,21 +46,16 @@ public class Shapes{
 	
 	public double calArea(){
 		double area = 0.0;
-		if (typeofShape=="rectangle"){
-			area=length*width;
-			return area;
-		}
-		
-		if (typeofShape=="square"){
-			area=length*length;
-			return area;
-		}
+		if (typeofShape=="rectangle")
+			return area=length*width;
+
+		if (typeofShape=="square")
+			return area=length*length;
 		
 		if (typeofShape=="circle"){
 			float pi = (float)3.14;
 			float areaFloat=pi*radius*radius;
-			area = (double) areaFloat;
-			return area;
+			return area = (double) areaFloat;
 		}
 	return area;
 	}
