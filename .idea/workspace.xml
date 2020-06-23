@@ -1,7 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05fa5088-f40b-466b-b329-ed088d3b2108" name="Default Changelist" comment="" />
+    <list default="true" id="05fa5088-f40b-466b-b329-ed088d3b2108" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/DiamondPattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/EmployeeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/EvenSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/Exercise1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/Exercise2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/Exercise3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/Exercise4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/Exercise422.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/Exercise7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/FirstEvenNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/ForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/Frequency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/Joanna.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/LogicalOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/MathFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/NewAirlinesReservation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/Palindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/Pattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/PleasePush.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/PrimeNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/RandomGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/RangeFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/RectangleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/Shapes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/ShapesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/Sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/SwitchCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/TableArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/TotalOfNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/progress/Volumes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/CommissionCalcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/DiamondPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/EvenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/Exercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/Exercise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/Exercise422.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/Exercise7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/FirstEvenNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/FractionsArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/Frequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/Joanna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/LogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/MathFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/NewAirlinesReservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/PleasePush.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/RandomGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/RangeFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/ShapesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/TableArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/TotalOfNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/progress/Volumes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +96,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1dZJdjT3bWk1F65KbaPDsuOvIUR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,55 +104,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/progress" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\DELL USA\IdeaProjects\test\src\progress" />
       <recent name="C:\Users\DELL USA\IdeaProjects\test\src" />
+      <recent name="C:\Users\DELL USA\IdeaProjects\test\src\progress" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CommissionCalc">
-    <configuration name="AcceptName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaprogress.AcceptName" />
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaprogress.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccountingTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="progress.AccountingTest" />
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="progress.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccountingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaprogress.AccountingTest" />
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaprogress.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.DiamondPattern">
     <configuration name="CommissionCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="progress.CommissionCalc" />
       <module name="test" />
@@ -93,12 +127,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FractionsArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaprogress.FractionsArray" />
+    <configuration name="DiamondPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="progress.DiamondPattern" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaprogress.*" />
+          <option name="PATTERN" value="progress.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="progress.Palindrome" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="progress.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="progress.Pattern" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="progress.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Volumes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="progress.Volumes" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="progress.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DiamondPattern" />
+        <item itemvalue="Application.Pattern" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.Volumes" />
         <item itemvalue="Application.CommissionCalc" />
-        <item itemvalue="Application.AccountingTest (1)" />
-        <item itemvalue="Application.AccountingTest" />
-        <item itemvalue="Application.FractionsArray" />
-        <item itemvalue="Application.AcceptName" />
       </list>
     </recent_temporary>
   </component>
@@ -130,21 +203,49 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1592627921343">
+    <state x="437" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592637489715">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1592627921343" />
-    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1592627921343">
+    <state x="437" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1592637489715" />
+    <state x="479" y="268" width="407" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1592629504164">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1592627921343" />
-    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1592627921343">
+    <state x="479" y="268" width="407" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.768@0.0.1366.768" timestamp="1592629504164" />
+    <state x="462" y="138" key="FileChooserDialogImpl" timestamp="1592636135346">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1592627921343" />
-    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1592627921343">
+    <state x="462" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1592636135346" />
+    <state width="1323" height="128" key="GridCell.Tab.0.bottom" timestamp="1592942971984">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1592627921343" />
+    <state width="1323" height="128" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1592942971984" />
+    <state width="1323" height="128" key="GridCell.Tab.0.center" timestamp="1592942971984">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="128" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1592942971984" />
+    <state width="1323" height="128" key="GridCell.Tab.0.left" timestamp="1592942971984">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="128" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1592942971984" />
+    <state width="1323" height="128" key="GridCell.Tab.0.right" timestamp="1592942971984">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="128" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1592942971984" />
+    <state x="184" y="34" width="998" height="708" key="SettingsEditor" timestamp="1592662734431">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="34" width="998" height="708" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1592662734431" />
+    <state x="359" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1592911477891">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="359" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1592911477891" />
+    <state x="0" y="0" width="736" height="768" key="find.popup" timestamp="1592636742620">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" width="736" height="768" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1592636742620" />
+    <state x="65" y="4" key="new project wizard" timestamp="1592636139195">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="65" y="4" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1592636139195" />
   </component>
 </project>
