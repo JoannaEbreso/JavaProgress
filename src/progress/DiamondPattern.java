@@ -1,8 +1,11 @@
 package progress;
 
+import java.security.SecureRandom;
+
 public class DiamondPattern {
     public static void main(String[] args) {
-        int numOfLines = 9;
+        SecureRandom sr = new SecureRandom();
+        int numOfLines = 1 + 2 * sr.nextInt(9);
         int numOfSpaces = numOfLines/2;
         int numOfStars = 1;
 
